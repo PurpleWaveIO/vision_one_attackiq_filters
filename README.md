@@ -4,7 +4,7 @@ Use these filters in conjuntion with a customer endpoint protection policy for T
 https://github.com/trendmicro/c1ws-mitre-policy<br/>
 https://github.com/PurpleWaveIO/apex_central_mitre_attackiq<br/>
 \
-Note: When applying filters use the "Event Type / Event ID" per filter below:<br/>
+<b>Note: When applying filters use the "Event Type / Event ID" per filter below:<b/><br/>
 ![My Image](Example1.png)
 ![My Image](Example2.png)
 ![My Image](Example3.png)
