@@ -1,0 +1,1 @@
+processName: "C:\\Program Files\\AttackIQ\\Agent\\engine\\py3\\python.exe" AND NOT processCmd: "C:\Program Files\AttackIQ\Agent\engine\py3\python C:\Program Files\AttackIQ\Agent\health_check.py" AND NOT processCmd: "C:\Program Files\AttackIQ\Agent\engine\py3\python C:\Program Files\AttackIQ\Agent\ai_cleanup.py" 
